@@ -12,3 +12,8 @@
 .avbar-li{
 	display:inline-block;
 }
+.blue-box{
+	background-color:blue;
+	font-size:35px;
+	padding:20px;
+}
